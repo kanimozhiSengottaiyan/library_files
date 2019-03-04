@@ -14,7 +14,7 @@ class shelfclass:
         Books=functions.getDetails_shelf()
         self.temp=functions.getDteails_book()
         self.numShelves = int(input("Enter the  num of shelves :"))
-    #   print(Books.keys())
+        print(Books.keys())
         print(type(Books))
         for i in range(self.numShelves):
             self.shelfid=input("Enter the shelfid :")
