@@ -1,0 +1,58 @@
+{
+    "1000": {
+        "5476": {
+            "Bookname": "QW",
+            "Price": "200",
+            "Author": "ER"
+        },
+        "5086": {
+            "Bookname": "sara",
+            "Price": "300",
+            "Author": "qwer"
+        },
+        "5565": {
+            "Bookname": "asdf",
+            "Price": "450",
+            "Author": ""
+        }
+    },
+    "1001": {},
+    "1002": {
+        "5316": {
+            "Bookname": "AS",
+            "Price": "230",
+            "Author": "DF"
+        }
+    },
+    "1007": {
+        "5130": {
+            "Bookname": "QW",
+            "Price": "1200",
+            "Author": "QWERTY"
+        },
+        "5448": {
+            "Bookname": "KL",
+            "Price": "500",
+            "Author": "CVBNM."
+        }
+    },
+    "1003": {},
+    "1005": {},
+    "1006": {},
+    "1004": {},
+    "1009": {},
+    "101": {
+        "5776": {
+            "Bookname": "Rich Dad Vs Poor Dad",
+            "Price": "100",
+            "Author": "Author1"
+        },
+        "5239": {
+            "Bookname": "Mong",
+            "Price": "50",
+            "Author": "Author2"
+        }
+    },
+    "102": {},
+    "1010": {}
+}

@@ -1,0 +1,38 @@
+{
+    "1000": {
+        "shelf name": "A"
+    },
+    "1001": {
+        "shelf name": "B"
+    },
+    "1002": {
+        "shelf name": "C"
+    },
+    "1007": {
+        "shelf name": "F"
+    },
+    "1003": {
+        "shelf name": "C"
+    },
+    "1005": {
+        "shelf name": "G"
+    },
+    "1006": {
+        "shelf name": "D"
+    },
+    "1004": {
+        "shelf name": "E"
+    },
+    "1009": {
+        "shelf name": "gg"
+    },
+    "101": {
+        "shelf name": "History"
+    },
+    "102": {
+        "shelf name": "Machine Learning"
+    },
+    "1010": {
+        "shelf name": "lkl"
+    }
+}
