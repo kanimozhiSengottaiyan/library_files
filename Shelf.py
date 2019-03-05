@@ -27,6 +27,7 @@ class shelfclass:
                 print("Shelf is already present")
 
         print(Books.keys())
+	print(len(Books))
         functions.setDetails_book(self.temp)
         functions.setDetails_shelf(Books)
 
